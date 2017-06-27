@@ -1,0 +1,23 @@
+div {
+      background-color: green !important ;
+height: 10%;
+width: 1em;
+border:1px solid black;
+}
+#id{ background-color: burlywood};
+.class { background-color:greenyellow ;}
+
+div.note{
+    background-color: red;
+}
+/*child element */
+div > p { 
+    background-color: plum
+}
+/*descendant */
+div p {background-color:blue;  }
+table:focus{}
+/*attribute     element[attr ='value']*/
+
+
+div[class='note']{color: yellow}
