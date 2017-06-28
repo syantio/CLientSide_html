@@ -1,11 +1,12 @@
 div {
-      background-color:yellowgreen !important ;
-height: 10%;
-width: 1em;
+      background-color:blue !important ;
+height: 20%;
+width: 2em;
 border:1px solid black;
 }
 #id{ background-color: burlywood};
-.class { background-color:greenyellow ;}
+.class { background-color:
+reenyellow ;}
 
 div.note{
     background-color: red;
